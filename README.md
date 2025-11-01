@@ -9,10 +9,12 @@ Each entry includes transaction hash, amount, and purpose.
 - *Token Name:* ZUZU
 - *Network:* BNB Smart Chain (BEP-20)
 - *Contract Address:* 0x78638E99Da09D6dba7F1f330C12Dd78C24f6badB
-- *Website:* https://zuzutoken.com
-- *Twitter:* https://x.com/ZuzuUsdt
-- *Telegram:* https://t.me/zuzutoke
-
+- Website: https://zuzutoken.com  
+- Twitter: https://x.com/ZuzuUsdt  
+- Telegram: https://t.me/zuzutoke  
+- Linktree: https://www.linkedin.com/in/zuzutoken/  
+- OpenSea: https://opensea.io/0x2ff06131534f9465d112f74e831c8274749bcd8b  
+- Email: info@zuzutoken.com
 ---
 
 ## 🔥 Burn #1 — 194,000,000 ZUZU
