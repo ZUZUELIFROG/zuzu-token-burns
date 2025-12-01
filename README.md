@@ -27,3 +27,12 @@ Each entry includes transaction hash, amount, and purpose.
 ---
 
 More burns and transparency reports will be added here after each verified event.
+
+##🔥 Burn #2 — 188,000,000 ZUZU
+
+* Date: December 1, 2025
+* Amount: 188,000,000 ZUZU
+* Transaction Hash: https://bscscan.com/tx/0x5d1f4f073f81565cc00a9db567a5151c15876d90ab3b5b88c1a7eaebd33adaf4
+* Burn Address: 0x000000000000000000000000000000000000dEaD
+* Purpose: Second Monthly Deflationary Burn — continuing ZUZU’s disciplined supply reduction and long-term ecosystem growth.
+* 
